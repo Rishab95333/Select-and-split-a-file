@@ -17,10 +17,14 @@ The program is platform independent.
 
 Location of saved files:
 ------
-Saved files location is based on Operating system, It contains MIT license
+Saved files location is based on Operating system.
+
+License:
+------
+It contains MIT license
 
 
 Details about author:
 -------
-Name: Rishab Arora
+Name: Rishab Arora<br>
 Email: rishab.59-cse-16@mietjammu.in
